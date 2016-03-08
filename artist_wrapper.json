@@ -1,0 +1,109 @@
+{
+    "artist": [
+        {
+            "artistName": "Cheap Trick",
+            "yearsActive": "1970s - 2000s",
+            "influences": [
+                {
+                    "name": "The Beach Boys"
+                },
+                {
+                    "name": "The Beatles"
+                },
+                {
+                    "name": "The Raspberries"
+                },
+                {
+                    "name": "The Who"
+                },
+                {
+                    "name": "Badfinger"
+                }
+            ]
+        },
+        {
+            "artistName": "The Beatles",
+            "yearsActive": "1960s - 1970s",
+            "influences": [
+                {
+                    "name": "Buddy Holly"
+                },
+                {
+                    "name": "Carl Perkins"
+                },
+                {
+                    "name": "Chuck Berry"
+                },
+                {
+                    "name": "Elvis Presley"
+                },
+                {
+                    "name": "Fats Domino"
+                }
+            ]
+        },
+        {
+            "artistName": "Steve Miller",
+            "yearsActive": "1960s - 2010s",
+            "influences": [
+                {
+                    "name": "Cream"
+                },
+                {
+                    "name": "Jimmy Reed"
+                },
+                {
+                    "name": "Les Paul"
+                },
+                {
+                    "name": "B.B. King"
+                },
+                {
+                    "name": "Johnny Watson"
+                }
+            ]
+        },
+		{
+            "artistName": "Aerosmith",
+            "yearsActive": "1970s - 2010s",
+            "influences": [
+                {
+                    "name": "Chuck Berry"
+                },
+                {
+                    "name": "Led Zeppelin"
+                },
+                {
+                    "name": "The Rolling Stones"
+                },
+                {
+                    "name": "The Yardbirds"
+                },
+                {
+                    "name": "Bo Diddley"
+                }
+            ]
+        },
+		{
+            "artistName": "The Kinks",
+            "yearsActive": "1960s - 1990s",
+            "influences": [
+                {
+                    "name": "Bo Diddley"
+                },
+                {
+                    "name": "Chuck Berry"
+                },
+                {
+                    "name": "The Beatles"
+                },
+                {
+                    "name": "Little Richard"
+                },
+                {
+                    "name": "The Shadows"
+                }
+            ]
+        }
+    ]
+}
